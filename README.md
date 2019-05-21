@@ -1,2 +1,0 @@
-# Helix
-A web browser.
